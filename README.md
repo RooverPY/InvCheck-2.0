@@ -1,7 +1,7 @@
-# VC DoS
+# InvCheck
 ** **
 
-### Simple, effective Discord DM/GC voice call denial of service utilizing Discord's change region feature..
+### Educational use only Discord invite generator.
 
 ![image](https://user-images.githubusercontent.com/93544398/167642838-134b1ae6-83fb-4296-99dd-ccbb41e53c5e.png)
 
